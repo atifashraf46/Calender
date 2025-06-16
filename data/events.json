@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Team Meeting",
+    "date": "2024-12-20",
+    "time": "10:00",
+    "duration": 60,
+    "color": "blue"
+  },
+  {
+    "id": 2,
+    "title": "Project Review",
+    "date": "2024-12-20",
+    "time": "14:00",
+    "duration": 90,
+    "color": "green"
+  },
+  {
+    "id": 3,
+    "title": "Client Call",
+    "date": "2024-12-22",
+    "time": "09:00",
+    "duration": 30,
+    "color": "purple"
+  },
+  {
+    "id": 4,
+    "title": "Design Workshop",
+    "date": "2024-12-25",
+    "time": "11:00",
+    "duration": 120,
+    "color": "orange"
+  },
+  {
+    "id": 5,
+    "title": "Code Review",
+    "date": "2024-12-25",
+    "time": "11:30",
+    "duration": 45,
+    "color": "red"
+  },
+  {
+    "id": 6,
+    "title": "Sprint Planning",
+    "date": "2024-12-28",
+    "time": "15:00",
+    "duration": 60,
+    "color": "indigo"
+  },
+  {
+    "id": 7,
+    "title": "Holiday Party",
+    "date": "2024-12-31",
+    "time": "18:00",
+    "duration": 180,
+    "color": "pink"
+  }
+]
